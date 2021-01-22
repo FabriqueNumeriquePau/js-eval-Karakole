@@ -34,6 +34,7 @@ main > header > nav > a:hover {
     background:none;
     color:white;
 }
+
 main > section > aside {
     display:flex;
     flex-direction: column;
